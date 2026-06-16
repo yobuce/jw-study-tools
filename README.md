@@ -52,9 +52,7 @@ pip install "cryptography>=42.0"
 ```
 <DATA>/
 ├── nwtsty_KO.db               # 신세계역 연구용 성경 DB (성구·연구 노트·각주)
-├── nwtsty_KO_manifest.json    # 위 DB 복호화용 manifest
 ├── rsg19_KO.jwpub             # (선택) 연구 자료 찾아보기
-├── *.jwpub                    # (선택) 공개강연 등 임의 JWPUB
 ├── 집회교재/
 │   └── mwb_KO_YYYYMM.jwpub    # /meeting-workbook 용 (격월 발행본)
 └── 파수대/
