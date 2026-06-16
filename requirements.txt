@@ -1,0 +1,3 @@
+# JW 집회 준비 도구 — 파이썬 의존성
+# JWPUB(.jwpub)은 암호화된 SQLite 컨테이너라 복호화에 cryptography가 필요합니다.
+cryptography>=42.0

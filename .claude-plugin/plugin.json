@@ -1,0 +1,18 @@
+{
+  "name": "jw-study-tools",
+  "displayName": "JW 집회 준비 도구",
+  "version": "0.1.0",
+  "description": "JWPUB 파일에서 성구 본문·연구자료·집회 순서·파수대 예습자료를 추출하고, jw.org 동영상 자막을 받아오는 집회 준비 도구 모음",
+  "author": {
+    "name": "yobuce"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "keywords": ["JW", "jwpub", "집회준비", "성구", "파수대", "집회교재", "자막"],
+  "userConfig": {
+    "data_dir": {
+      "type": "string",
+      "title": "JWPUB 데이터 폴더 경로",
+      "description": "성경 DB(nwtsty_KO.db)와 .jwpub 파일들을 보관한 폴더의 절대경로. 비워 두면 ${CLAUDE_PLUGIN_DATA}/JWPUB 를 사용합니다. 폴더 구성은 README 참조."
+    }
+  }
+}

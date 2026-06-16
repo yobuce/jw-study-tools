@@ -1,0 +1,14 @@
+{
+  "name": "jw-study-tools",
+  "owner": {
+    "name": "yobuce"
+  },
+  "plugins": [
+    {
+      "name": "jw-study-tools",
+      "source": "./",
+      "description": "JWPUB에서 성구·연구자료·집회 순서·파수대 예습자료를 추출하고 jw.org 동영상 자막을 받아오는 집회 준비 도구",
+      "version": "0.1.0"
+    }
+  ]
+}

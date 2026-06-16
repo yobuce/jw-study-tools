@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# 사용자 데이터(저작권 있는 출판물)는 플러그인에 포함하지 않음
+JWPUB/
+*.jwpub
+*.db
+*_manifest.json
