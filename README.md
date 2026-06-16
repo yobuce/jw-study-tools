@@ -22,7 +22,7 @@ JWPUB 파일에서 집회 준비에 필요한 자료를 추출·정리하는 Cla
 ### 1. 마켓플레이스 추가 후 설치
 
 ```
-/plugin marketplace add <이 저장소의 git URL 또는 로컬 경로>
+/plugin marketplace add https://github.com/yobuce/jw-study-tools
 /plugin install jw-study-tools@jw-study-tools
 ```
 
