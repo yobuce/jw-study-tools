@@ -59,7 +59,7 @@ pip install "cryptography>=42.0"
     └── w_KO_YYYYMM.jwpub      # /wt-preview 용 (월별 연구판)
 ```
 
-`nwtsty_KO.db` / `nwtsty_KO_manifest.json` 은 JW Library 앱의
+`nwtsty_KO.db` 는 JW Library 앱의
 `LocalState/Publications/nwtsty_KO/` 에서 복사할 수 있습니다.
 `.jwpub` 파일은 JW Library에서 출판물을 내려받으면 생기는 파일입니다.
 
